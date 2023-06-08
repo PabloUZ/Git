@@ -31,3 +31,8 @@
 >```bash
 >git log
 >```
+
+> Travel to the past<br>
+>```bash
+>git checkout <commit hash>
+>```
